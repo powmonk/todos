@@ -13,5 +13,5 @@
 [/] Z: Drive Expansion
 [X] Elephant Insurable Interest
 [ ] Guidewire Complaint Amendments
-[ ] Rosie Flynn induction amendments
+[>] Rosie Flynn induction amendments
 [X] Minute Taking Amendments
